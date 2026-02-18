@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MyProject",
     dependencies: [
-        .package(url: "https://github.com", branch: "master")
+        .package(url: "https://github.com/STREGAsGate/Raylib", branch: "master")
     ],
     targets: [
         .executableTarget(

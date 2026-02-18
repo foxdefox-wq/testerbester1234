@@ -1,0 +1,15 @@
+{
+  "originHash" : "9bfbd33d55b81085357849b0494449ae6752a325ee73b837d210ee1a100e456e",
+  "pins" : [
+    {
+      "identity" : "raylib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/STREGAsGate/Raylib",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9e7c83604f74211e4f8f3c38c1c52d4434f51bc1"
+      }
+    }
+  ],
+  "version" : 3
+}
